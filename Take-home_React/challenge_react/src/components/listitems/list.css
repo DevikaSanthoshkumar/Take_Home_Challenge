@@ -1,0 +1,95 @@
+/* homepage.css */
+ .homepage-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .project-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* grid-template-columns: repeat(3, minmax(250px, 1fr)); */
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .project-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .project-card h3 {
+    margin-bottom: 10px;
+    color: #333333;
+  }
+  
+  .project-card p {
+    margin-bottom: 10px;
+    color: #666666;
+  }
+  
+  .project-card button {
+    padding: 8px 16px;
+    background-color:  #9b59b6;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .project-card button:hover {
+    background-color:  #9b59b6;
+  }
+/* list.css */
+ .button-list {
+    display: inline-block;
+    padding:  8px 16px;
+    margin-right: 2px;
+    background-color: #4caf50;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button-list:hover {
+    background-color: #45a049;
+  }
+    
+  .button-listproject{
+    padding: 8px 16px;
+    background-color:  #2980b9;
+    color: #ffffff;
+    border: none;
+    text-decoration: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 2rem;
+
+  }
+
+    
+
+
+/* list.css */
+
+
+  
+  /* .button-list:hover {
+    background-color: #2980b9; 
+  } */
+  
+  
+   
+   
+    /* background-color: #9b59b6;  */
+   
+  
+  
+  

@@ -1,0 +1,70 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card-reg {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn-block {
+    width: 100%;
+}
+
+.text-center {
+    text-align: center;
+} */
+
+
+.container-box {
+    background-color: #f0f0f0; /* Background color */
+  }
+  
+  .card-reg {
+    width: 500px; /* Set card width */
+    padding: 20px; /* Add padding */
+    border-radius: 10px; /* Add border radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+  }
+  
+  .reg-class {
+    margin: auto; /* Center the card horizontally */
+  }
+  
+  .btn-submit {
+    background-color: green; /* Green button background color */
+    color: white; /* White button text color */
+    border: none; /* Remove button border */
+  }
+  
+  .btn-submit:hover {
+    background-color: darkgreen; /* Dark green button background color on hover */
+    color: white; /* White button text color on hover */
+  }
+  
+  .link {
+    text-decoration: none; /* Remove underline */
+    color: green; /* Green text color */
+  }
+  
+  .link:hover {
+    color: darkgreen; /* Dark green text color on hover */
+  }
+  .login-link{
+    text-decoration: none;
+  }
